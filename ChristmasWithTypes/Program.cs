@@ -10,7 +10,7 @@ namespace ChristmasWithTypes
 
             var xmasDay = Christmas.Day.Thursday;
 
-            //Done set Santa's name to Kris Kringle
+            //Done set Santa's name to Kris Kringle Will It Register
             xmas.Santa = "Kris Kringle";
 
             //Done Insert 3 presents you would like for xmas.  They must be strings
