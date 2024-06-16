@@ -1,0 +1,56 @@
+[33mcommit 1bc659c48fb3c645114aa7f399b9c778c3134edb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: fb022fd e27173d
+Author: Michael Doyle <mdoyle@truecoders.io>
+Date:   Mon Oct 3 14:02:51 2022 -0500
+
+    Merge pull request #5 from amoriss/main
+    
+    changed master to main + updated to 6.0
+
+[33mcommit e27173dbfb2911f97be52015924cc6031258cbf6[m
+Author: Amoriss <amoriss@protonmail.com>
+Date:   Sat Sep 24 21:42:31 2022 -0500
+
+    changed master to main
+
+[33mcommit fb022fdacff20bed16baa9c1fb2e98fcb99b7f56[m
+Author: Michael Doyle <mdoyle@truecoders.io>
+Date:   Thu Oct 22 11:26:27 2020 -0500
+
+    updated to 3.1
+
+[33mcommit 5da1907fa37e31f8041a13ab3a54d152b56b994c[m
+Author: Michael Doyle <mdoyle@truecoders.io>
+Date:   Thu Jan 16 10:40:52 2020 -0600
+
+    Update README.md
+
+[33mcommit d309a96e074b875a4e40431fd21f0b21b2f06be5[m
+Author: Michael Doyle <mdoyle@truecoders.io>
+Date:   Tue Dec 3 16:13:42 2019 -0600
+
+    Create README.md
+
+[33mcommit 56a9bbe907a24fc228dfe24da3b7aaa75f72bfc6[m
+Author: mvdoyle <mdoyle@truecoders.io>
+Date:   Tue Dec 3 16:10:48 2019 -0600
+
+    refined
+
+[33mcommit 688fcf723856254ebc286cef38078fd5f3fc49d1[m
+Author: mvdoyle <mdoyle@truecoders.io>
+Date:   Tue Dec 3 16:00:20 2019 -0600
+
+    refactored
+
+[33mcommit be4ef79e012c5440879cb7743daaf899715838a4[m
+Author: mvdoyle <mdoyle@truecoders.io>
+Date:   Tue Dec 3 15:56:40 2019 -0600
+
+    added the exercise
+
+[33mcommit cc0c6acb9d1e8a59c10894eb8b99ae03251d2ce2[m
+Author: Michael Doyle <mdoyle@truecoders.io>
+Date:   Tue Dec 3 15:53:00 2019 -0600
+
+    Initial commit
